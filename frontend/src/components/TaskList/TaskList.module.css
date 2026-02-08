@@ -1,0 +1,26 @@
+/* src/components/TaskList/TaskList.module.css */
+/* Styles for task list container and add task section */
+
+.taskList {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.addTask {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.addTask input {
+  flex: 1;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.addTask button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}

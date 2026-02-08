@@ -1,0 +1,22 @@
+/* src/components/TaskItem/TaskItem.module.css */
+/* Styles for individual task item component */
+
+.taskItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.input {
+  flex: 1;
+  margin-right: 0.5rem;
+  padding: 0.25rem;
+}
+
+.button {
+  margin-left: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+}
