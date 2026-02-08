@@ -3,6 +3,8 @@
 Full-stack task management app with React frontend and FastAPI backend.
 Status of the project: Completed.
 
+![Alt text](img.png)
+
 ## Project Structure
 
 ```
